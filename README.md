@@ -28,20 +28,20 @@
 <tr>
 <td>
 <a href="https://github.com/omololevy/omololevy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigredheart&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stackdev59&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigredheart&theme=highcontrast&layout=compact" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackdev59&theme=highcontrast&layout=compact" />
   </a>
 </td>
 </tr>
 
 <tr>
 <td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bigredheart"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stackdev59"/>
 </td>
 <td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bigredheart"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stackdev59"/>
 </td>
 </tr>
 
@@ -59,7 +59,7 @@
 </table>
 
 ## Trofeos :trophy:
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=bigredheart&no-frame=true&theme=gitdimmed&column=-1" alt="stackdev59" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=stackdev59&no-frame=true&theme=gitdimmed&column=-1" alt="stackdev59" /></p>
 
 <p align="left"> <img src="https://img.shields.io/github/stars/stackdev59?color=black&label=Estrellas&style=flat" alt="stackdev59" /> </p>
 
